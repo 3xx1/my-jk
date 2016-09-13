@@ -1,0 +1,34 @@
+{
+  "name": "my-jk",
+  "version": "1.0.0",
+  "description": "my friend in my tiny apartment room, always be sweet, always be bitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3xx1/my-jk.git"
+  },
+  "author": "3xx1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3xx1/my-jk/issues"
+  },
+  "homepage": "https://github.com/3xx1/my-jk#readme",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.6",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "spotify-remote": "0.0.8"
+  }
+}
